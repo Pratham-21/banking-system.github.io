@@ -1,0 +1,96 @@
+
+html{
+    padding: 0%;
+    height: 0%;
+}
+body{
+    font-family: sans-serif;
+}
+
+.navbar-brand{
+    font-family: 'Comic Sans', cursive;
+    font-size: 1.5rem;
+    color: #10141a!important;
+}
+#h1{
+    font-weight: 900;
+    font-family: diot;
+    font-size: 50px;
+    
+}
+
+#c1{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 200px;
+    padding-left: 200px;
+}
+
+.img-content{
+    height: 100vh;
+    background-color: #2299d5;
+    color: #ffffff;
+    padding: 3rem;
+    margin-bottom: 1vh;
+}
+
+@media only screen and (max-width:766px){
+    .banking-img{
+        display: none;
+    }
+}
+.banking-img{
+    height: 70vh;
+    width: 100%;
+}
+
+/*--- Get Started Button --- */
+.button {
+  background-color: #f6f9f7;
+  border: solid;
+  color: rgb(0, 0, 0);
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+
+.button1 {
+    border-radius: 12px;
+    text-decoration: none;
+}
+
+.button1:hover {
+    background-color: rgb(70, 161, 1);
+    color: white;
+    text-decoration: none;
+}
+/*--- Get Started Button Ends ---*/
+
+/* ---Footer--- */
+footer{
+    background-color:  #f2e9e4;
+}
+
+.social-icons li{
+    list-style: none;
+    display: inline;
+    padding: 0.5rem;
+}
+
+.github{
+    color: #24292e;
+}
+
+.linkedin{
+    color: #0077b5;
+}
+
+.google{
+    color: #D44638;
+}
+/* --- Footer Ends --- */
+
+
+
